@@ -1,0 +1,10 @@
+.idea/
+.DS_Store
+*.iml
+.classpath
+.project
+.springBeans
+.settings/
+target/
+*.lock
+classes/
